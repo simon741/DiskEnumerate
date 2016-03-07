@@ -2,6 +2,7 @@
 This is small program, which I'm developing in school at C++ seminar. 
 Seminar is conducted by employees of Eset.
 They help me with issues, give me advice and do code review. I am very grateful to them.
+
 The program is using Win API.
 
 #### The main functionality of program is simple:
